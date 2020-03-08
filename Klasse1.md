@@ -84,9 +84,6 @@ Feedback loop in gen~ ist m￿öglich
 
 ![](Klasse1/png/irregular_step4.png)
 
-
-
-
 - history ... ein Sample delay
 
 ### C / C++ und gen~

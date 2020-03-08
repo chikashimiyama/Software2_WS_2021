@@ -1,6 +1,11 @@
 # Klasse3
 
-Particle synthesis mit gen~
+## Particle synthesis mit gen~
+
+- Glissonsynthese
+- AGS (Asynchronous Granular Syntesis)
+- Waveletsynthese
+- FormantSynthese
 
 ## AGS (Asynchronous Granular Synthesis)
 

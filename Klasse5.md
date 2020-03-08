@@ -1,22 +1,5 @@
 # Klasse5
 
-## Tent map
-
-### Modell
-![](Klasse5/png/tent.png)
-
-### gen~
-![](Klasse5/png/tentmap_gen.png)
-
-### downsample + Unregelmäßigkeit
-
-![](Klasse5/png/downsample.png)
-
-### Cubic-Interpolation
-
-![](Klasse5/png/cubic.png)
-
-
 ## Reverb
 
 ![](Klasse5/png/reverb.gif)

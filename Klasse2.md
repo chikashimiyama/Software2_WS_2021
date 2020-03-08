@@ -4,11 +4,11 @@ Das erste sinnvolle DSP Programm mit gen~
 
 ## powerrand~
 
-![](Klasse7/png/exprand.png)
+![](Klasse4/png/exprand.png)
 
 ## Patch
 
-![](Klasse7/png/exprand_gen.png)
+![](Klasse4/png/exprand_gen.png)
 
 ### Schritt 1
 
