@@ -21,44 +21,41 @@ Pause
 #### Schritt 3
 
 Mit Sample
+
 ![](Klasse4/ags/step3/main.png)
 ![](Klasse4/ags/step3/gen.png)
 
 #### Schritt 4
-
 Offset
 
 ![](Klasse4/ags/step4/main.png)
 ![](Klasse4/ags/step4/gen.png)
 
+## Multi-Voice
 
-## Granularsynthese
-### Unregelmäßige Impulse
+### Problem 
+![](Klasse4/multivoice/problem.png)
 
-![](Klasse3/png/irregular.png)
+### L￿ösung
+![](Klasse4/multivoice/solution.png)
 
----
+## Multi-Voice in gen~
+![](Klasse4/multivoice/irregular.png)
+
 ### Verteilung
-
-![](Klasse3/png/distribute.png)
-
----
+![](Klasse4/multivoice/distribute.png)
 
 ### Verteilung + Phasor
-![](Klasse3/png/distribute+phasor.png)
+![](Klasse4/multivoice/distribute+phasor.png)
 
----
 ### Verteilung + Sample
-![](Klasse3/png/ags-without.png)
-![](Klasse3/png/ags-without-gen.png)
+![](Klasse4/multivoice/ags-without.png)
+![](Klasse4/multivoice/ags-without-gen.png)
 
----
 ### Verteilung + sample + Fenster
-![](Klasse3/png/ags-with.png)
+![](Klasse4/multivoice/ags-with.png)
 
----
-### Umgestaltung
-
-![](Klasse3/png/ags-refactored-gen.png)
-![](Klasse3/png/ags-refactored-gengen.png)
+### Patcher in gen~
+![](Klasse4/multivoice/ags-refactored-gen.png)
+![](Klasse4/multivoice/ags-refactored-gengen.png)
 
