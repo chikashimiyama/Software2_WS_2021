@@ -1,18 +1,27 @@
 # Klasse8 
 
-## FM Synthese mit gen~
+## Synthese mit gen~
 
 ### Standard FM in gen~
 
+![](Klasse8/standardfm/main.png)
+
+![](Klasse8/standardfm/gen.png)
+
+#### Karplus-strong in gen~
+
+![](Klasse8/karplus-strong/main.png)
+
+![](Klasse8/karplus-strong/gen.png)
 
 
 ### Feedback Frequency Modulation
 
-![](Klasse4/png/FeedbackFM.png)
+![](Klasse8/feedbackfm/FeedbackFM.png)
 
 
-![](Klasse4/png/sine.png)
+![](Klasse8/feedbackfm/sine.png)
 
-![](Klasse4/png/Feedbackpatch.png)
-![](Klasse4/png/plot.png)
+![](Klasse8/feedbackfm/Feedbackpatch.png)
+![](Klasse8/feedbackfm/plot.png)
 
