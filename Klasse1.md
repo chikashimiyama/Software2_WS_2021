@@ -1,13 +1,5 @@
 # Klasse1
 
-## Git
-
-Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
-
-[http://https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
-
-[https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-
 
 ## Das Thema des Kurses
 
@@ -15,7 +7,6 @@ Git ist ein sehr leistungsstärker Werkzeug für Softwareentwickler.
 - [gen~] objekt
 
 ### Warum braucht man gen~?
-
 
 >General
 >
