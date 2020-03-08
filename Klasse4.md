@@ -1,33 +1,64 @@
-# Klasse4 
-## die M￿öglichketen, die Feedback anbietet
+# Klasse4
 
-### Filter
+## Particle synthesis mit gen~ (2)
 
-- Tiefpassfilter
-- Hochpassfilter
-- Bandpassfilter
-- Kuhschwanzfilter 
-...
+### AGS (Asynchronous Granular Synthesis)
 
-![](Klasse4/png/onepole.png)
-![](Klasse4/png/feedback.png)
+#### Schritt 1
 
-#### Tiefpassfilter
-![](Klasse4/png/lowpass.png)
+S￿ägezahn
 
-#### Test
-![](Klasse4/png/high.png)
-![](Klasse4/png/mid.png)
-![](Klasse4/png/low.png)
+![](Klasse4/ags/step1/main.png)
+![](Klasse4/ags/step1/gen.png)
 
-#### Theorie
-![](Klasse4/png/theorie.png)
+#### Schritt 2
 
-### Feedback FM
+Pause
 
-![](Klasse4/png/sine.png)
+![](Klasse4/ags/step2/main.png)
+![](Klasse4/ags/step2/gen.png)
 
-![](Klasse4/png/FeedbackFM.png)
-![](Klasse4/png/Feedbackpatch.png)
-![](Klasse4/png/plot.png)
+#### Schritt 3
+
+Mit Sample
+![](Klasse4/ags/step3/main.png)
+![](Klasse4/ags/step3/gen.png)
+
+#### Schritt 4
+
+Offset
+
+![](Klasse4/ags/step4/main.png)
+![](Klasse4/ags/step4/gen.png)
+
+
+## Granularsynthese
+### Unregelmäßige Impulse
+
+![](Klasse3/png/irregular.png)
+
+---
+### Verteilung
+
+![](Klasse3/png/distribute.png)
+
+---
+
+### Verteilung + Phasor
+![](Klasse3/png/distribute+phasor.png)
+
+---
+### Verteilung + Sample
+![](Klasse3/png/ags-without.png)
+![](Klasse3/png/ags-without-gen.png)
+
+---
+### Verteilung + sample + Fenster
+![](Klasse3/png/ags-with.png)
+
+---
+### Umgestaltung
+
+![](Klasse3/png/ags-refactored-gen.png)
+![](Klasse3/png/ags-refactored-gengen.png)
 
