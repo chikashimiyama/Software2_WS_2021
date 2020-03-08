@@ -1,12 +1,14 @@
 # Klasse 2
 
+Das erste sinnvolle DSP Programm mit gen~
+
 ## powerrand~
 
-![](Klasse2/png/exprand.png)
+![](Klasse7/png/exprand.png)
 
 ## Patch
 
-![](Klasse2/png/exprand_gen.png)
+![](Klasse7/png/exprand_gen.png)
 
 ### Schritt 1
 
@@ -68,36 +70,4 @@
 
 gen als Datei
 ![](Klasse2/png/step12.png)
-
-## Anwendung von history
-
-### Filter
-
-- Tiefpassfilter
-- Hochpassfilter
-- Bandpassfilter
-- Kuhschwanzfilter 
-...
-
-![](Klasse2/png/onepole.png)
-![](Klasse2/png/feedback.png)
-
-#### Tiefpassfilter
-![](Klasse2/png/lowpass.png)
-
-#### Test
-![](Klasse2/png/high.png)
-![](Klasse2/png/mid.png)
-![](Klasse2/png/low.png)
-
-#### Theorie
-![](Klasse2/png/theorie.png)
-
-### Feedback FM
-
-![](Klasse2/png/sine.png)
-
-![](Klasse2/png/FeedbackFM.png)
-![](Klasse2/png/Feedbackpatch.png)
-![](Klasse2/png/plot.png)
 

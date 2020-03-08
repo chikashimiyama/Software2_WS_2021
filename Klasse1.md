@@ -70,20 +70,24 @@ Das gen~ Objekt
 ![](Klasse1/png/feedback.png)
 ![](Klasse1/png/feedback_gen.png)
 
+Feedback loop in gen~ ist m￿öglich
+
 ### Die Lösung für das Puls-Problem
 ![](Klasse1/png/irregular.png)
 ![](Klasse1/png/irregular_gen.png)
 
-## Ein einfaches Beispiel mit gen~
+![](Klasse1/png/irregular_step1.png)
 
-### Das Problem
+![](Klasse1/png/irregular_step2.png)
 
-rand~ erzeugt ein lineares Signal.
-Wie kann man rand~ mit exponentiellen Kurven verwirklichen?
+![](Klasse1/png/irregular_step3.png)
 
-### Die Lösung
-![](Klasse1/png/exprand.png)
-![](Klasse1/png/exprand_gen.png)
+![](Klasse1/png/irregular_step4.png)
+
+
+
+
+- history ... ein Sample delay
 
 ### C / C++ und gen~
 
