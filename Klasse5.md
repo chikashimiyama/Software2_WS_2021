@@ -39,10 +39,3 @@ Synced-Sinus
 ![](Klasse5/formant/step3/main.png)
 ![](Klasse5/formant/step3/gen.png)
 ![](Klasse5/formant/step3/vox.png)
-
-
-
-
-
-
-

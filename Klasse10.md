@@ -1,8 +1,8 @@
-# Klasse5
+# Klasse10
 
 ## Reverb
 
-![](Klasse5/png/reverb.gif)
+![](Klasse10/png/reverb.gif)
 
 ### Reverb 
 
@@ -11,22 +11,22 @@
 
 ### Delay
 
-![](Klasse5/png/versuch1.png)
+![](Klasse10/png/versuch1.png)
 
 ### Kammfilter
 
-![](Klasse5/png/versuch2.png)
+![](Klasse10/png/versuch2.png)
 
 ### Kammfilter + Phasenumkehr
 
-![](Klasse5/png/versuch3.png)
+![](Klasse10/png/versuch3.png)
 
 ### Allpass
 
-![](Klasse5/png/versuch4.png)
+![](Klasse10/png/versuch4.png)
 
 ### Vergleich
-![](Klasse5/png/versuch5.png)
+![](Klasse10/png/versuch5.png)
 
 
 ### Objekte - Kammfilter / Allpass
@@ -39,48 +39,48 @@ When unit reverberators are connected in **parallel**, their echoes add together
 
 #### Parallel - Serial
 
-![](Klasse5/png/parallel_serial.png)
+![](Klasse10/png/parallel_serial.png)
 
 ### Manfred Schröeder Algorithmus
 
-![](Klasse5/png/mrs.jpg) 
+![](Klasse10/png/mrs.jpg) 
 
-![](Klasse5/png/design.png)
+![](Klasse10/png/design.png)
 
 
 ### Schröder Reverb
 
 4 comb parallel
-![](Klasse5/png/4_comb_para.png)
+![](Klasse10/png/4_comb_para.png)
 
 ---
 4 allpass parallel
-![](Klasse5/png/4_allpass_para.png)
+![](Klasse10/png/4_allpass_para.png)
 
 -- 
 4 allpass serial
 
-![](Klasse5/png/4_allpass_serial.png)
+![](Klasse10/png/4_allpass_serial.png)
 
 --
 4 comb parallel + 2 allpass
 
-![](Klasse5/png/4_comb_2all.png)
+![](Klasse10/png/4_comb_2all.png)
 
 
 ### Early Refelektion
-![](Klasse5/png/revised.png)
+![](Klasse10/png/revised.png)
 
 
 ### Verbesserter Schröder-Reverb
-![](Klasse5/png/er+predelay+comb+all.png)
+![](Klasse10/png/er+predelay+comb+all.png)
 
 
 
 
 ### High Frequency Rolloff = Lowpass
 
-![](Klasse5/png/er+predelay+comb+all+rolloff.png)
+![](Klasse10/png/er+predelay+comb+all+rolloff.png)
 
 ### Stereo Verbreitung
 
@@ -88,18 +88,18 @@ When unit reverberators are connected in **parallel**, their echoes add together
 ### Implementationsbeispiel 1 / rev4~
 
 von Sack Settel
-![](Klasse5/png/rev4.png)
+![](Klasse10/png/rev4.png)
 
 ### Implementationsbeispiel 2 / rev1~
 
 von  Sack Settel
-![](Klasse5/png/rev1.png)
+![](Klasse10/png/rev1.png)
 
 ### Implementationsbeispiel 3 / yafr 
 
-![](Klasse5/png/yafr.png)
+![](Klasse10/png/yafr.png)
 
 ### Implementationsbeispiel 4 / yafr2
 
-![](Klasse5/png/yafr2.png)
+![](Klasse10/png/yafr2.png)
 
