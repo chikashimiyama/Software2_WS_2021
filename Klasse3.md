@@ -2,7 +2,7 @@
 
 ## Particle synthesis mit gen~ (1)
 
-[Except microsound](Klasse3/particle.pdf)
+[Excerpt microsound](Klasse3/particle.pdf)
 
 ### Glissonsynthese
 

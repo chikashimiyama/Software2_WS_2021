@@ -52,20 +52,40 @@ Waveset distortion was developed for the CDP while composing [Tongues of Fire](h
 
 ![](Klasse6/png/waveset_gen2.png)
 
-#### Waveset-Phasor-Umwandlung 
+
+#### Ersatz durch S￿ägezahn
+
 ![](Klasse6/png/waveset_gen3.png)
+
 ![](Klasse6/png/waveset_gen3_core.png)
- 
+
+
+#### Mit H￿üllkurve
+
+![](Klasse6/png/waveset_gen4.png)
+
 
 #### Ersatz durch Sinus
 
-The first of these involves replacing each waveset with a standard-shape waveform (e.g. a **sinewave**). This produces a very pronounced spectral transformation of the source, but one where the zero-crossings of the result are exactly aligned with those of the source. It is thus possible to use a simple mixing procedure (another CDP process, Inbetweening, does this) to produce a sequence of sounds intermediate between the source and the new sound. These two procedures were developed and used to produce the 'Wood' to 'Drum' transformations in [Tongues of Fire](https://www.youtube.com/watch?v=x-Or7VaMlEI).
+The first of these involves replacing each waveset with a standard-shape waveform (e.g. a **sinewave**). This produces a very pronounced spectral transformation of the source, but one where the zero-crossings of the result are exactly aligned with those of the source. It is thus possible to use a simple mixing procedure (another CDP process, Inbetweening, does this) to produce a sequence of sounds intermediate between the source and the new sound. These two procedures were developed and used to produce the 'Wood' to 'Drum' transformations in [Tongues of Fire](https://www.youtube.com/watch?v=Ude4717dlsQ).
 
-![](Klasse6/png/waveset_gen35.png)
-
-
-#### Ersatz durch Sinus + Envelope Follower
+#### Ersatz durch Sinus
 
 ![](Klasse6/png/waveset_gen5.png)
+
+
+#### Weitere Ideen
+
+##### Mit der additiven Synthese
+![](Klasse6/png/idee1.png)
+
+##### Mit der FM Synthese
+![](Klasse6/png/idee2.png)
+![](Klasse6/png/idee2_core.png)
+
+##### Mit der Waveformsynthese
+![](Klasse6/png/idee3.png)
+![](Klasse6/png/idee3_core.png)
+
 
 
