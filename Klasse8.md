@@ -1,6 +1,6 @@
 # Klasse8 
 
-## Synthese mit gen~
+## Weitere Synthese mit gen~
 
 ### Standard FM in gen~
 
