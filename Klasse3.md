@@ -1,5 +1,40 @@
 # Klasse3
 
+## gen~ Objekte
+
+### mix ... linear interpolation
+
+#### Funktion
+
+![](Klasse3/mix/function.png)
+![](Klasse3/mix/function_core.png)
+
+
+#### Anwendungsbeispiel (Waveform Interpolation)
+
+ ![](Klasse3/mix/application.png)
+
+
+### interp ... fortgeschrittene interpolation
+
+#### Funktion
+
+##### linear interpolation
+![](Klasse3/interp/linear.png)
+![](Klasse3/interp/linear_core.png)
+
+##### cosine interpolation
+![](Klasse3/interp/cosine.png)
+![](Klasse3/interp/cosine_core.png)
+
+[Interpolation](http://paulbourke.net/miscellaneous/interpolation/)
+
+#### Anwendungsbeispiel (Buffer interpolation)
+
+![](Klasse3/interp/interp.png)
+![](Klasse3/interp/interp_core.png)
+
+
 ## Particle synthesis mit gen~ (1)
 
 [Excerpt microsound](Klasse3/particle.pdf)
