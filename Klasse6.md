@@ -1,8 +1,33 @@
 # Klasse6
 
 
-## Filter mit gen
+## Filter mit gen~
 
+## FIR Filter / IIR Filter?
+
+IR ... Impulse Response  
+FIR ... Finate Impulse Response    
+IIR ... Infinate Impulse Response   
+
+## Impulse Response
+
+### Impulse
+
+![](Klasse6/png/ir.jpg)
+
+### Impulse Response DataBase
+
+[OpenAir](https://openairlib.net/)
+
+Aufgenommene IRData (Tennis Court)
+![](Klasse6/png/real.png)
+
+Convolution Reverb mit IRData
+![](Klasse6/png/spacedesigner.jpg)
+
+### Experiment mit onepole~
+
+![](Klasse6/png/reverse_e.png)
 ## FIR Filter
 ### Simple Low-pass
 
