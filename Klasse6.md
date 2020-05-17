@@ -58,6 +58,17 @@ y[n] = (a0 * x[n]) ± (a1 * x[n-1]) ± (a2 * x[n-2]) .... ± (ai * [x[n-i]])
 ![](Klasse6/png/general.png)
 ![](Klasse6/png/general_filter.png)
 
+### General FIR Filter
+
+y[n] = (a0 * x[n]) ± (a1 * x[n-1]) ± (a2 * x[n-2]) .... ± (ai * [x[n-i]])
+
+![](Klasse6/png/general.png)
+![](Klasse6/png/general_filter.png)
+
+#### Mehr Delay-Lines
+![](Klasse6/png/highstage.png)
+![](Klasse6/png/ripple.png)
+
 ## IIR Filter
 
 ### Recursive Low Pass
