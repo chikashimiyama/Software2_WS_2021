@@ -1,7 +1,7 @@
 # Klasse6
 
 
-## Filter mit gen~
+## Filter mit gen~ (1)
 
 ## FIR Filter / IIR Filter?
 
@@ -9,7 +9,7 @@ IR ... Impulse Response
 FIR ... Finate Impulse Response    
 IIR ... Infinate Impulse Response   
 
-## Impulse Response
+## Impulse Response 
 
 ### Impulse
 
@@ -51,17 +51,12 @@ y[n] = (a0 * x[n]) + (a1 * x[n-1])
 ![](Klasse6/png/variable.png)
 ![](Klasse6/png/variable_gen.png)
 
-### FIR Filter cascading
+### General FIR Filter
 
 y[n] = (a0 * x[n]) ± (a1 * x[n-1]) ± (a2 * x[n-2]) .... ± (ai * [x[n-i]])
 
-![](Klasse6/png/2nd.png)
-
-![](Klasse6/png/2nd_gen.png)
-
-![](Klasse6/png/3rd.png)
-
-![](Klasse6/png/3rd_gen.png)
+![](Klasse6/png/general.png)
+![](Klasse6/png/general_filter.png)
 
 ## IIR Filter
 
@@ -90,7 +85,7 @@ increasing b raises the highpass cutoff frequency, attenuating more and more low
 
 Biquad = zwei FIR + zwei IIR
 
-y[n] = a0 * x[n] + a1 * x[n-1] + a2* x[n-2] -b1 * y[n-1] -b2 * y[n-2]
+y[n] = a0 * x[n] + a1 * x[n-1] + a2* x[n-2] - b1 * y[n-1] -b2 * y[n-2]
 
 
 ![](Klasse6/png/biquad.png)
