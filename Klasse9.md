@@ -1,43 +1,7 @@
 # Klasse9
 
-### Main Patch
- 
-![](Klasse9/png/main.png)
----
-### Unregelmäßige Sägezahn
 
-![](Klasse9/png/gen1.png)
----
-### Unregelmäßige Sägezahn + Cosine-Interpolation
-
-![](Klasse9/png/gen2.png)
----
-### der jetzige und letzte Wert
-![](Klasse9/png/gen3.png)
-
----
-### Randomisierung + Cosine-Interpolation
-![](Klasse9/png/gen4.png)
-
----
-### Anwendung A
-![](Klasse9/png/anw1.png)
-
----
-### Anwendung B
-![](Klasse9/png/anw2.png)
-
----
-### Interpolation der Interpolation
-
-Linear und Consine Interplation interpolieren!
-![](Klasse9/png/meta.png)
-![](Klasse9/png/meta_gen.png)
-
----
-
-### Das Chaos
-
+### Chaos generator
 
 [Chaosforschung](https://de.wikipedia.org/wiki/Chaosforschung)
 
