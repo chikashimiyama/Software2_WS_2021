@@ -1,21 +1,10 @@
 # Klasse10
 
-## Reverb
-
-![](Klasse10/png/reverb.gif)
-
-### Reverb 
-
-- Early Reflections
-- Late Reflections
-
-### Delay
-
-![](Klasse10/png/versuch1.png)
+## Making Freeverb
 
 ### Kammfilter
 
-![](Klasse10/png/versuch2.png)
+![](Klasse10/png/comb.png)
 
 ### Kammfilter + Phasenumkehr
 

@@ -25,6 +25,5 @@
 ![](Klasse8/karplus-strong/gen.png)
 
 
-#### Wave-guide Synthese in gen~
 
 
