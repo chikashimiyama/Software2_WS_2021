@@ -44,25 +44,53 @@ Waveset distortion was developed for the CDP while composing [Tongues of Fire](h
 
 -- Trevor Wischart
 
-#### 1. Waveset-Erkennung mit gen~
+#### 1. Waveset-Erkennung 
 
 ![](Klasse7/png/ws1.png)
 
 ![](Klasse7/png/ws1_gen.png)
 
-#### 2. Waveset-Intervallerkennung mit gen~
+Mehrere Impulse pro Periode
+![](Klasse7/png/ws1_additive.png)
 
-![](Klasse7/png/ws2.png)
+#### 2. Waveset-Intervallerkennung 
 
-![](Klasse7/png/ws2_gen.png)
+##### Z￿ähler
+![](Klasse7/png/ws2_0.png)
+
+![](Klasse7/png/ws2_0_gen.png)
+
+##### zu f￿r￿üh zu resetten
+
+![](Klasse7/png/ws2_1.png)
+
+![](Klasse7/png/ws2_1_gen.png)
+
+##### mit history
+
+![](Klasse7/png/ws2_2.png)
+
+![](Klasse7/png/ws2_2_gen.png)
+
+##### Ausgleich mit +1
+
+![](Klasse7/png/ws2_3.png)
+
+![](Klasse7/png/ws2_3_gen.png)
 
 #### 3. mit Beschr￿änkung
+
+wenn das System z.B. 1 Min. kein Signal bekommt, interpretiert das System 60 Sek. als Intervall und ersetzt dieses Intervall durch einen 0.016 Hz. Sinus (Unh￿örbar)
+
+H￿örbereich 20 Hz - 20 kHz  
+20 Hz ... 50 Msek ... 2400 Samples
+ 
 
 ![](Klasse7/png/ws3.png)
 
 ![](Klasse7/png/ws3_gen.png)
 
-#### 4. Aufnahme
+#### 4. Aufnahme von Intervalle
 
 ![](Klasse7/png/ws4.png)
 
