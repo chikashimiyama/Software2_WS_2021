@@ -112,6 +112,12 @@ The first of these involves replacing each waveset with a standard-shape wavefor
 
 ![](Klasse7/png/ws6_gen.png)
 
+##### L￿ösung f￿ür "ein sample zu sp￿ät"
+
+![](Klasse7/png/ws6_2.png)
+
+![](Klasse7/png/ws6_2_gen.png)
+
 #### 7. Envelop Follower
 
 ![](Klasse7/png/ws7.png)
