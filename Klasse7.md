@@ -55,12 +55,12 @@ Mehrere Impulse pro Periode
 
 #### 2. Waveset-Intervallerkennung 
 
-##### Z￿ähler
+##### Zähler
 ![](Klasse7/png/ws2_0.png)
 
 ![](Klasse7/png/ws2_0_gen.png)
 
-##### zu f￿r￿üh zu resetten
+##### zu früh zu resetten
 
 ![](Klasse7/png/ws2_1.png)
 
@@ -78,17 +78,23 @@ Mehrere Impulse pro Periode
 
 ![](Klasse7/png/ws2_3_gen.png)
 
-#### 3. mit Beschr￿änkung
+#### 3. mit Beschränkung
 
 wenn das System z.B. 1 Min. kein Signal bekommt, interpretiert das System 60 Sek. als Intervall und ersetzt dieses Intervall durch einen 0.016 Hz. Sinus (Unh￿örbar)
 
-H￿örbereich 20 Hz - 20 kHz  
+Hörbereich 20 Hz - 20 kHz  
 20 Hz ... 50 Msek ... 2400 Samples
  
 
 ![](Klasse7/png/ws3.png)
 
 ![](Klasse7/png/ws3_gen.png)
+
+#### Letzte Intervalle ist nicht ausreichend
+
+![](Klasse7/png/motivation.png)
+
+
 
 #### 4. Aufnahme von Intervalle
 
@@ -112,7 +118,7 @@ The first of these involves replacing each waveset with a standard-shape wavefor
 
 ![](Klasse7/png/ws6_gen.png)
 
-##### L￿ösung f￿ür "ein sample zu sp￿ät"
+##### Lösung für "ein sample zu spät"
 
 ![](Klasse7/png/ws6_2.png)
 
