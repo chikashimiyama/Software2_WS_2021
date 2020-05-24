@@ -124,14 +124,34 @@ The first of these involves replacing each waveset with a standard-shape wavefor
 
 ![](Klasse7/png/ws7_gen.png)
 
+##### "glitchness"
+
+![](Klasse7/png/ws7_2.png)
+
+![](Klasse7/png/ws7_2_gen.png)
+
 #### 8. Weitere Ideen
 
 ##### Pulser Synthese in WaveSet
 
-![](Klasse7/png/pulser.png)
-![](Klasse7/png/pulser_gen.png)
+![](Klasse7/png/ws8.png)
 
-##### Additive Synthese in WaveSet
+![](Klasse7/png/ws8_gen.png)
 
-![](Klasse7/png/additive.png)
-![](Klasse7/png/additive_gen.png)
+##### Waveform Selector in gen~
+
+![](Klasse7/png/ws9.png)
+
+![](Klasse7/png/ws9_1.png)
+
+![](Klasse7/png/ws9_2.png)
+
+##### Additive-Synthese in WaveSetDistortion
+
+![](Klasse7/png/ws10.png)
+
+![](Klasse7/png/ws10_gen1.png)
+
+![](Klasse7/png/ws10_gen2.png)
+
+![](Klasse7/png/ws10_gen3.png)
