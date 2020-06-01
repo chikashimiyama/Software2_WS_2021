@@ -36,9 +36,27 @@ gen
 ![](Klasse10/png/centroid_gen.png)
 
 
-#### Spectral Snapshot
+#### Spectral Resonator
 
-#### Spectral Feedback Delay
+main  
+![](Klasse10/png/resonator.png)
+
+pfft  
+![](Klasse10/png/resonator_pfft.png)
+
+gen  
+![](Klasse10/png/resonator_gen.png)
+
+#### Spatial Spectral Delay
+
+main  
+![](Klasse10/png/delay.png)
+
+pfft  
+![](Klasse10/png/delay_pfft.png)
+
+gen  
+![](Klasse10/png/delay_gen.png)
 
 
 
