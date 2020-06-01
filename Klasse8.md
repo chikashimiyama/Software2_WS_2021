@@ -35,9 +35,6 @@
 
 ![](Klasse8/karplus-strong/gen.png)
 
-### WaveGuide-Synthese 
-
-### Phase-Distortion Synthese
 
 
 
