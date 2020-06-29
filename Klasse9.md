@@ -9,7 +9,7 @@
 ![](Klasse9/png/mrs.jpg) 
 Urheber von Digital Reverb
 
-![](Klasse9/png/freeverb.png)
+![](Klasse9/png/schroeder.png)
 
 ### Kammfilter in gen
 
@@ -37,7 +37,7 @@ Sie sind alle teilerfremd deshalb sind Delays immer unsynchronisiert (nicht glei
 
 ### Allpass
 
-An allpass filter is a peculiar signal processor. For steady-state tones fed into it, the allpass filter passes all frequencies equally well with no change in ampplitude -- hence its name.
+An allpass filter is a peculiar signal processor. For steady-state tones fed into it, the allpass filter passes all frequencies equally well with no change in amplitude -- hence its name.
 
 Thus, it is said that an allpass filter has a flat frequency response throughout the audio bandwidth. However, the allpass also imposes a frequency-dependent phase shift on the incoming signal. it delays various frequency regions by different amounts.
 
